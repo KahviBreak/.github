@@ -13,9 +13,9 @@ Professor: [Marco André Mendes](https://github.com/marrcandre)
 - [Yasmin Mello](https://github.com/melloyasminn)
 
 ### Links do projeto: 
-- [Documentação](https://github.com/)
+- [Documentação](https://github.com/KahviBreak/.github/tree/main/profile)
 - [BackEnd](https://github.com/)
-- [FrontEnd](https://github.com/)
+- [FrontEnd](https://github.com/KahviBreak/Kahvi-frontend)
 
 ## Descrição do projeto:
 > Nosso projeto foi pensado nas dificuldades que nosso cliente Sr Manoel estava enfrentando para administrar sua cafeteria Doce Expresso, com a alta demanda de pedidos para entregas e presencialmente. O Sr Manoel também queria mudar sua forma de gerenciar seu negócio para algo inovador e tecnológico, mas também seguro . 
