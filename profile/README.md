@@ -32,8 +32,8 @@ Nosso objetivo é criar uma solução inovadora e simplificada para a administra
 
 ## Requisitos Funcionais (RF)
 
-| RF01 | Permitir que administradores cadastrem, editem e removam produtos no cardápio. |
-| RF02 | Permitir atribuição de nome, descrição, preço, foto e categoria aos produtos. |
+> RF01 | Permitir que administradores cadastrem, editem e removam produtos no cardápio. |
+> RF02 | Permitir atribuição de nome, descrição, preço, foto e categoria aos produtos. |
 | RF03 | Permitir a criação de categorias para os produtos (ex: café, sobremesas). |
 | RF04 | Exibir o cardápio digital de forma intuitiva e organizada para os clientes. |
 | RF05 | Permitir o filtro do cardápio por categoria de produto. |
