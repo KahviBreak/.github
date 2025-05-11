@@ -78,4 +78,4 @@ Nosso objetivo é criar uma solução inovadora e simplificada para a administra
  - RNF05 - Compatível com os principais navegadores (Chrome, Firefox, Edge). 
 
 ## Modelagem
-![Modelagem inicial(apenas com os relacionamentos)](profile\modelagem bd.png)
+- [Modelagem inicial(apenas com os relacionamentos)](modelagem bd.png)
