@@ -78,5 +78,5 @@ Nosso objetivo é criar uma solução inovadora e simplificada para a administra
  - RNF05 - Compatível com os principais navegadores (Chrome, Firefox, Edge). 
 
 ## Modelagem
-- Modelagem inicial(apenas com os relacionamentos)
- ![modelagem](profile/modelagem bd.png)
+- [Modelagem](https://github.com/KahviBreak/.github/blob/d3806abffe1d3654c84625825154dadaf775ee0b/profile/modelagem%20bd.png)
+
