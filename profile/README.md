@@ -79,4 +79,4 @@ Nosso objetivo é criar uma solução inovadora e simplificada para a administra
 
 ## Modelagem
 - Modelagem inicial(apenas com os relacionamentos)
-<img src="profile\modelagem bd.png">
+ ![modelagem](profile/modelagem bd.png)
