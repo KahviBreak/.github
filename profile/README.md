@@ -14,8 +14,8 @@ Professor: [Marco André Mendes](https://github.com/marrcandre)
 
 ### Links do projeto: 
 - [Documentação](https://github.com/KahviBreak/.github/tree/main/profile)
-- [BackEnd](https://github.com/)
-- [FrontEnd](https://github.com/KahviBreak/Kahvi-frontend)
+- [BackEnd](https://github.com/KahviBreak/kahvi-back.git)
+- [FrontEnd](https://github.com/KahviBreak/Kahvi-frontend.git)
 
 ## Descrição do projeto:
 > Nosso projeto foi pensado nas dificuldades que as cafeterias enfrentam para administrar a alta demanda de pedidos para entregas por delivery. O projeto é pensado para negócios que querem mudar sua forma de gerenciar seu negócio para algo inovador e tecnológico, mas também seguro. 
