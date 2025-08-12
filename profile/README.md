@@ -16,7 +16,7 @@ Professor: [Marco André Mendes](https://github.com/marrcandre)
 - [Documentação](https://github.com/KahviBreak/.github/tree/main/profile)
 - [BackEnd](https://github.com/KahviBreak/kahvi-back.git)
 - [FrontEnd](https://github.com/KahviBreak/Kahvi-frontend.git)
-- [Publicação Frontend](https://kahvi-frontend.vercel.app/)
+- [Publicação Frontend](https://kahvi.surge.sh/)
 - [Publicação Backend](https://kahvi-back-mgf7.onrender.com)
 
 ## Descrição do projeto:
